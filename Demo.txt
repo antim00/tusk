@@ -3,5 +3,10 @@ welcome to new tusk repository
 this is learning GIT from telusko
 
 this is second time added line 
+ 
+feature branch trunk branch
+this is the feature we have added to sub branch
+
+
 
 thanks 
